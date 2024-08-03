@@ -1,0 +1,34 @@
+.techonlogies {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 100px;
+}
+
+.skills {
+    background-color: #1a1a1a;
+    border-radius: 16px;
+    margin: 0 auto;
+    padding: 30px;
+    width: 300px;
+    height: auto;
+}
+
+.skills:hover {
+    background-color: #303030;
+}
+
+.skills img {
+    width: 45px;
+    height: auto;
+    margin-bottom: 90px;
+}
+
+.skills h2 {
+    margin-bottom: 50px;
+    font-size: 2rem;
+}
+
+.skills p {
+    font-size: 1rem;
+}

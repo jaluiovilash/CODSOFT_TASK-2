@@ -1,0 +1,50 @@
+.polaroid__gallery {
+    margin: 12px;
+    font-size: 1.4rem;
+}
+
+.polaroid {
+    background-color: #000;
+    color: #fff;
+    width: 90%;
+    margin: 26px 12px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 12px;
+}
+
+.polaroid img {
+    width: 100%;
+    border-radius: 12px;
+}
+
+.polaroid__container {
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.product__design {
+    background-color: black;
+}
+
+.product__design-products {
+    padding: 110px 0;
+    margin-bottom: 25px;
+}
+
+.work-ui p {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.work-ui img {
+    width: 700px;
+    height: auto;
+}
+
+.github {
+    margin-bottom: 80px;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 1rem;
+}
